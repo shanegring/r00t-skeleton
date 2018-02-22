@@ -1,6 +1,6 @@
 email: shane.gring@gmail.com
-fullname: Shane
-title: Admin
+fullname: S
+title: S
 state: enabled
 access:
   admin:
@@ -8,4 +8,4 @@ access:
     super: true
   site:
     login: true
-hashed_password: $2y$10$DanxbIinoeMQWm0ZtdHBPOZMbP5OISQATReJ2kY/X49JkuW9oEOCG
+hashed_password: $2y$10$eeLF3Qte2ppxgx2RRJVSHONgfWdZMYm9N0mP3HiBDVju9s4IwcOo.
