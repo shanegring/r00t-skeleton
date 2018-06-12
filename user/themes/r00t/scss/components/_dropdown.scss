@@ -1,15 +1,6 @@
-
-.dropdown-item.active, .dropdown-item:active {
-    color: #fff;
-    text-decoration: none;
-    background-color: #49A1B8;
-}
-
-  
-
 .dropdown-menu {
-    color: #292b2c;
-    background-color: white;
+    color:  darken($light-grey, 20);
+    background-color: $white;
     border: 0px solid rgba(0,0,0,.15);
     box-shadow: 0 2px 4px 0 rgba(207,207,207,0.50);
     border-radius: 0rem;
@@ -27,3 +18,52 @@
     border-left: .7em solid transparent;
 }
 
+.dropdown-item.active, .dropdown-item:active {
+    color: $white;
+    text-decoration: none;
+    background-color: $primary;
+}
+
+.btn-warning:active, .btn-warning.active,
+.show > .btn-warning.dropdown-toggle {
+  color: $white;
+  background-color: darken($warn-orange, 5);
+  background-image: none;
+  border-color: darken($warn-orange, 5);
+}
+
+.btn-outline-primary:active, .btn-outline-primary.active,
+.show > .btn-outline-primary.dropdown-toggle {
+  color: $white;
+  background-color: $primary;
+  border-color: $primary;
+}
+
+.btn-outline-secondary:active, .btn-outline-secondary.active,
+.show > .btn-outline-secondary.dropdown-toggle {
+  color: $white;
+  background-color:darken($light-grey, 5);
+  border-color: darken($light-grey, 5);
+}
+
+.btn-outline-info:active, .btn-outline-info.active,
+.show > .btn-outline-info.dropdown-toggle {
+  color: $white;
+  background-color: darken($info-blue, 5);
+  border-color: darken($info-blue, 5);
+}
+
+.btn-outline-success:active, .btn-outline-success.active,
+.show > .btn-outline-success.dropdown-toggle {
+  color: $white;
+  background-color: darken($success-green, 5);
+  border-color: darken($success-green, 5);
+}
+
+
+.bootstrap-select > .dropdown-toggle.bs-placeholder,  
+.bootstrap-select > .dropdown-toggle.bs-placeholder:hover, 
+.bootstrap-select > .dropdown-toggle.bs-placeholder:focus, 
+.bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+    color: $white;
+}

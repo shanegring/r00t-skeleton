@@ -25,6 +25,10 @@
         {% do assets.addJs('theme://js/clipboard.min.js') %}
         {% do assets.addJs('theme://js/jquery.scrollbar.min.js') %}
         {% do assets.addJs('theme://js/learn.js') %}
+        {% do assets.addJs('https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js') %}
+        {% do assets.addJs('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js') %}
+        {% do assets.addJs('https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js') %}
+
         {{ assets.js() }}
     {% endblock %}
 

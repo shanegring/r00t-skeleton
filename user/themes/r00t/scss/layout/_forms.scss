@@ -20,10 +20,7 @@ label {
 
 
 
-
 /* Inputs */
-
-
 
 .input-group-addon {
   border-radius: 0;
@@ -49,14 +46,16 @@ label {
 }
 
 .form-control:focus {
-  border-color: #429DB5;
+  border-color: $primary;
 }
 
 input:focus, textarea:focus {
-  border: 1px solid #429DB5;
+  border: 1px solid $primary;
 }
 
-
+.form-check-input {
+    margin-left: -0.2rem;
+}
 
 /* Forms */
 

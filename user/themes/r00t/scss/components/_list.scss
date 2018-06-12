@@ -1,7 +1,5 @@
-
-
-
 /* Lists */
+
 .list-group-item:last-child {
     border-bottom-right-radius: 0rem;
     border-bottom-left-radius: 0rem;
@@ -30,10 +28,51 @@
 
 .list-group-item.active {
     z-index: 2;
-    color: #fff;
+    color: $white;
     background-color: $primary;
     border-color: $primary;
   }
 
+
+
+.list-group-item-primary {
+    color: darken($primary,20);
+    background-color: lighten($primary,35);
+}  
+
+.list-group-item-secondary {
+    color: darken($dark-grey,10);
+    background-color: lighten($light-grey,5);
+}  
+
+.list-group-item-success {
+    color: darken($success-green,25);
+    background-color: lighten($success-green,35);
+}
+
+.list-group-item-warning {
+    color: darken($warn-orange,20);
+    background-color: lighten($warn-orange,38);
+}  
+
+.list-group-item-danger {
+    color: darken($red,10);
+    background-color: lighten($red,50);
+}
+
+.list-group-item-info {
+    color:darken($info-blue,15);
+    background-color:lighten($info-blue,48);
+}  
+
+.list-group-item-light {
+    color: darken($lightest-cloud,55);
+    background-color: $lightest-cloud;
+}
+
+.list-group-item-dark {
+    color: darken($dark-grey,35);
+    background-color: lighten($dark-grey,35);
+}
 
 

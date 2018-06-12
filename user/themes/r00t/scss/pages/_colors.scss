@@ -31,8 +31,8 @@
     padding-right: 1.6rem;
     padding-left: 1.6rem;
     font-size: 1rem;
-    color: #fff;
-    /*background-color: #f4f6f8;*/
+    color: $white;
+    /*background-color: $lightest-cloud;*/
 }
 
 
@@ -47,7 +47,7 @@
 }
 
 .ColorPaletteShade.hasDarkText {
-    color: #161d25;
+    color: darken($dark-grey,30);
 }
 
 .ColorPaletteLabel, .ColorPaletteValue {

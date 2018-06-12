@@ -1,12 +1,18 @@
 ---
-title: Basics
+title: Layout
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
 ### Chapter 1
 
-# Basics
+# Layout
 
-Discover the **basic** principles
+Components and options for laying out your Bootstrap project, including wrapping containers, a powerful grid system, a flexible media object, and responsive utility classes.</p>
+
+
+
+
+
