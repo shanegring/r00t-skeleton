@@ -16,6 +16,7 @@ process:
 	<a class="dropdown-item" href="#">Action</a>
 	<a class="dropdown-item" href="#">Another action</a>
 	<a class="dropdown-item" href="#">Something else here</a>
+	</div>
 </div>
 
 <div class="highlight mt-4">
@@ -82,8 +83,7 @@ Action
 
 
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
 <h3>Split button dropdowns</h3>
 
 <!-- Example split danger button -->
@@ -120,12 +120,10 @@ Action
 </code></pre>
 </figure>
 
-</div>
-</div>
 
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
+
 <h3>Sizing</h3>
 
     <!-- Large button groups (default and split) -->

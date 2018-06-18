@@ -12,6 +12,7 @@ process:
 }
 </style>
 
+<p>The WELL Certified seals leverage elements of the IWBI logo to showcase and celebrate WELL Certification achievements at the Silver, Gold and Platinum levels. The arcs have been rearranged around the “WELL” program name. In the negativespaces of the arcs is the full organization name.</p>
 
 <h1>2018</h1>
 
@@ -314,4 +315,35 @@ process:
 </div>  
 
 <hr />
+
+<h4>Third-party application of the WELL Certified seal</h4>
+<p>The WELL Certification seals may only be used by WELL Certified projects at the year
+and level that corresponds with the project’s certification award. WELL Certification
+is finalized when the project team confirms the WELL report from Green Business
+Certification Inc (GBCI) as final. Certified projects will receive a WELL Certification seal
+graphic package from the IWBI team at this time, as well as instructions for how to
+order official plaques, certificates and stickers via Green Plaque. The guidelines here
+pertain to the use of WELL Certification marks on website and hard copy collateral
+only. WELL Certified projects should only use the WELL seal that corresponds with their
+official certification level. WELL-registered projects or private WELL Certified projects
+are not permitted to use the WELL Certification seal in any capacity.<p>
+
+<h4>Seal integrity</h4>
+<p>The WELL Certification seals should always be used as-is, with appropriate sizing (see
+below for guidance), with no modification (stretching, separation, modifying any colors)
+to the mark’s elements.<p>
+
+<h4>Seal colors</h4>
+<p>Each of the certification levels have a corresponding color, Silver, Gold or Platinum.
+Text is always set in cool gray 11. The WELL Certified seal is best used on a clean, white
+background.<p>
+
+<h4>Seal sizing</h4>
+<p>To maintain legibility, the WELL Certification seals should never be used at a width of
+less than 200px. The seals should always be scaled to equal proportions to ensure no
+stretching occurs.<p>
+
+<h4>Clear space</h4>
+<p>The clear space should never be less than 50px. Clear space standards are provided in
+order to ensure that the IWBI logo is clearly distinguishable in all applications.<p>
 

@@ -21,6 +21,8 @@ $silver: #ccc;
 $primary: #4193A9;
 
 
+
+
 $cool-gray-11: #58595b;
 $cool-gray-4:#bdbcc0;
 $lightest-cloud:#F6F7F9;
@@ -48,6 +50,8 @@ $v2sound:#63a984;
 $v2materials:#40927d;
 $v2mind:#2f6b5e;
 $v2community:#23483d;
+
+
 
 
 
@@ -98,8 +102,6 @@ $v2community:#23483d;
 .darkcharcoal {
 	background-color: darken($cool-gray-11, 20);
 }
-
-
 
 
 
@@ -202,7 +204,13 @@ $v2community:#23483d;
 
 
 
+.bg-light {
 
+}
+
+.bg-dark {
+	background-color: #343a40!important;
+}
 
 
 

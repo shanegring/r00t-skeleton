@@ -7,7 +7,14 @@ process:
     twig: true
 ---
 
+<style>
 
+#body img, #body .video-container {
+  margin: 0;
+}
+
+
+</style>
 
 <div class="card mt-4" style="width: 20rem;">
 	<img class="card-img-top" src="http://via.placeholder.com/318x180" alt="Card image cap">
@@ -1166,7 +1173,7 @@ Featured
     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
   </div>
 </div>
-<div class="card card-inverse card-primary p-3 text-center">
+<div class="card card-inverse card-secondary p-3 text-center">
   <blockquote class="card-blockquote">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat.</p>
     <footer>

@@ -72,8 +72,7 @@ process:
 
 
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
 <h3>Sizing</h3>
 <div class="input-group input-group-lg">
   <span class="input-group-addon" id="sizing-addon1">@</span>
@@ -99,12 +98,9 @@ process:
 </code></pre>
 </div>
 
-</div>
 
-</div>
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
 <h3>Checkboxes and radio addons</h3>
 <div class="row">
   <div class="col-lg-6">
@@ -147,11 +143,8 @@ process:
 <span class="nt">&lt;/div&gt;</span>
 </code></pre>
 </div>
-</div>
-</div>
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+<
   <h3>Multiple addons</h3>
   
   <div class="row">
@@ -196,11 +189,9 @@ process:
 </code></pre>
 </div>
   
-</div>
-</div>
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
+
   <h3>Button addons</h3>
   
   <div class="row">
@@ -273,11 +264,8 @@ process:
 </code></pre>
 </div>
   
-</div>
-</div>
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
   <h3>Buttons with dropdowns</h3>
   
   <div class="row">
@@ -358,11 +346,8 @@ process:
 </code></pre>
 </div>
   
-</div>
-</div>
 
-<div class="row">
-<div class="col-12" style="padding-top: 30px">
+
   <h3>Segmented buttonss</h3>
   
   <div class="row">
