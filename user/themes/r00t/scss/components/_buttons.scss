@@ -91,39 +91,39 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-secondary{
   color: $black;
-  background-color: $light-grey;
-  border-color: $light-grey;
+  background-color: $cool-gray-4;
+  border-color: $cool-gray-4;
 }
 
 .btn-secondary:hover {
    color:$black;
-   background-color: darken($light-grey,8);
-   border-color: darken($light-grey,8);
+   background-color: darken($cool-gray-4,8);
+   border-color: darken($cool-gray-4,8);
 }
 
 
 .btn-light {
   color: $black;
-  background-color: lighten($light-grey,5);
-  border-color: lighten($light-grey,5);
+  background-color: lighten($cool-gray-4,5);
+  border-color: lighten($cool-gray-4,5);
 }
 
 .btn-light:hover {
   color: $black;
-  background-color: $light-grey;
-  border-color: $light-grey;  
+  background-color: $cool-gray-4;
+  border-color: $cool-gray-4;  
 }
 
 .btn-dark {
   color: $white;
-  background-color:  darken($dark-grey,8);
-  border-color: darken($dark-grey,8); 
+  background-color:  darken($cool-gray-11,8);
+  border-color: darken($cool-gray-11,8); 
 }
 
 .btn-dark:hover {
   color: $white;
-  background-color: darken($dark-grey,20);
-  border-color: darken($dark-grey,20);  
+  background-color: darken($cool-gray-11,20);
+  border-color: darken($cool-gray-11,20);  
 }
 
 
@@ -158,13 +158,13 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-outline-secondary {
   background-color: transparent;
-  border-color: darken ($light-grey,20);
+  border-color: darken ($cool-gray-4,20);
   color: black;
 }
 
 .btn-outline-secondary:hover {
-   background-color: $light-grey;
-   border-color: $light-grey;
+   background-color: $cool-gray-4;
+   border-color: $cool-gray-4;
    color: $black;
 }
 
@@ -224,28 +224,28 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 .btn-outline-light {
   color: $black;
   background-color: transparent;
-  border-color: $light-grey;
+  border-color: $cool-gray-4;
 }
 
 
 .btn-outline-light:hover {
   color: $black;
-  background-color:darken($light-grey,8);  
-  border-color: darken($light-grey,8);  
+  background-color:darken($cool-gray-4,8);  
+  border-color: darken($cool-gray-4,8);  
 }
 
 
 .btn-outline-dark {
-  color:$dark-grey;
+  color:$cool-gray-11;
   background-color: transparent;
-  border-color:$dark-grey;
+  border-color:$cool-gray-11;
 }
 
 
 .btn-outline-dark:hover {
   color: $white;
-  background-color: $dark-grey;
-  border-color: $dark-grey;  
+  background-color: $cool-gray-11;
+  border-color: $cool-gray-11;  
 }
 
 

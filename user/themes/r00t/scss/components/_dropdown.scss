@@ -1,5 +1,5 @@
 .dropdown-menu {
-    color:  darken($light-grey, 20);
+    color:  darken($cool-gray-4, 20);
     background-color: $white;
     border: 0px solid rgba(0,0,0,.15);
     box-shadow: 0 2px 4px 0 rgba(207,207,207,0.50);
@@ -42,8 +42,8 @@
 .btn-outline-secondary:active, .btn-outline-secondary.active,
 .show > .btn-outline-secondary.dropdown-toggle {
   color: $white;
-  background-color:darken($light-grey, 5);
-  border-color: darken($light-grey, 5);
+  background-color:darken($cool-gray-4, 5);
+  border-color: darken($cool-gray-4, 5);
 }
 
 .btn-outline-info:active, .btn-outline-info.active,

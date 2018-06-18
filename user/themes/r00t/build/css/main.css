@@ -2,65 +2,135 @@
 /* Light Greys */
 @import url("https://use.typekit.net/zcy3uha.css");
 .lightestcloud {
-  background-color: #F6F7F9;
+  background-color: #d7d6d9;
 }
 
 .lightcloud {
-  background-color: #f2f3f3;
+  background-color: #cac9cc;
 }
 
 .cloudygrey {
-  background-color: #E5E6E7;
+  background-color: #bdbcc0;
 }
 
 .darkcloud {
-  background-color: #cacdcf;
+  background-color: #a3a2a7;
 }
 
 .darkestcloud {
-  background-color: #b0b3b6;
+  background-color: #89878f;
 }
 
 /* Dark Grey */
 .lightsmoke {
-  background-color: #959595;
+  background-color: #8b8c8e;
 }
 
 .smoke {
-  background-color: #7c7c7c;
+  background-color: #717275;
 }
 
 .charcoal {
-  background-color: #626262;
+  background-color: #58595b;
 }
 
 .burntcharcoal {
-  background-color: #494949;
+  background-color: #3f4041;
 }
 
 .darkcharcoal {
-  background-color: #2f2f2f;
+  background-color: #262627;
 }
 
 /* WELL Blue */
-.ltst-orange {
+.lightestwellblue {
   background-color: #81becf;
 }
 
-.lt-orange {
+.lightwellblue {
   background-color: #5dabc1;
 }
 
-.orangesicle {
+.wellblue {
   background-color: #4193A9;
 }
 
-.darkorange {
+.darkwellblue {
   background-color: #337384;
 }
 
-.darkestorange {
+.darkestwellblue {
   background-color: #25535f;
+}
+
+/* WELL v1 Features */
+.v1air {
+  background-color: #3399cc;
+}
+
+.v1water {
+  background-color: #6C879E;
+}
+
+.v1nourishment {
+  background-color: #A6BF95;
+}
+
+.v1light {
+  background-color: #ECBA58;
+}
+
+.v1fitness {
+  background-color: #D4C0AD;
+}
+
+.v1comfort {
+  background-color: #EBCDC6;
+}
+
+.v1mind {
+  background-color: #88C5D0;
+}
+
+/* WELL Features */
+.air {
+  background-color: #144249;
+}
+
+.water {
+  background-color: #07667f;
+}
+
+.nourishment {
+  background-color: #0b7b97;
+}
+
+.light {
+  background-color: #3b9db6;
+}
+
+.movement {
+  background-color: #91cbd3;
+}
+
+.thermal {
+  background-color: #a7d6ad;
+}
+
+.sound {
+  background-color: #63a984;
+}
+
+.materials {
+  background-color: #40927d;
+}
+
+.mind {
+  background-color: #2f6b5e;
+}
+
+.community {
+  background-color: #23483d;
 }
 
 /* Placeholder text color
@@ -9325,65 +9395,135 @@ select.selectpicker {
 /*red*/
 /* Light Greys */
 .lightestcloud {
-  background-color: #F6F7F9;
+  background-color: #d7d6d9;
 }
 
 .lightcloud {
-  background-color: #f2f3f3;
+  background-color: #cac9cc;
 }
 
 .cloudygrey {
-  background-color: #E5E6E7;
+  background-color: #bdbcc0;
 }
 
 .darkcloud {
-  background-color: #cacdcf;
+  background-color: #a3a2a7;
 }
 
 .darkestcloud {
-  background-color: #b0b3b6;
+  background-color: #89878f;
 }
 
 /* Dark Grey */
 .lightsmoke {
-  background-color: #959595;
+  background-color: #8b8c8e;
 }
 
 .smoke {
-  background-color: #7c7c7c;
+  background-color: #717275;
 }
 
 .charcoal {
-  background-color: #626262;
+  background-color: #58595b;
 }
 
 .burntcharcoal {
-  background-color: #494949;
+  background-color: #3f4041;
 }
 
 .darkcharcoal {
-  background-color: #2f2f2f;
+  background-color: #262627;
 }
 
 /* WELL Blue */
-.ltst-orange {
+.lightestwellblue {
   background-color: #81becf;
 }
 
-.lt-orange {
+.lightwellblue {
   background-color: #5dabc1;
 }
 
-.orangesicle {
+.wellblue {
   background-color: #4193A9;
 }
 
-.darkorange {
+.darkwellblue {
   background-color: #337384;
 }
 
-.darkestorange {
+.darkestwellblue {
   background-color: #25535f;
+}
+
+/* WELL v1 Features */
+.v1air {
+  background-color: #3399cc;
+}
+
+.v1water {
+  background-color: #6C879E;
+}
+
+.v1nourishment {
+  background-color: #A6BF95;
+}
+
+.v1light {
+  background-color: #ECBA58;
+}
+
+.v1fitness {
+  background-color: #D4C0AD;
+}
+
+.v1comfort {
+  background-color: #EBCDC6;
+}
+
+.v1mind {
+  background-color: #88C5D0;
+}
+
+/* WELL Features */
+.air {
+  background-color: #144249;
+}
+
+.water {
+  background-color: #07667f;
+}
+
+.nourishment {
+  background-color: #0b7b97;
+}
+
+.light {
+  background-color: #3b9db6;
+}
+
+.movement {
+  background-color: #91cbd3;
+}
+
+.thermal {
+  background-color: #a7d6ad;
+}
+
+.sound {
+  background-color: #63a984;
+}
+
+.materials {
+  background-color: #40927d;
+}
+
+.mind {
+  background-color: #2f6b5e;
+}
+
+.community {
+  background-color: #23483d;
 }
 
 /* Placeholder text color
@@ -9988,6 +10128,10 @@ b, strong {
   background-color: #f9f9f9 !important;
 }
 
+#body img, #body .video-container {
+  margin: 0rem auto;
+}
+
 body {
   background: #ffffff;
 }
@@ -10146,65 +10290,135 @@ table {
 /*red*/
 /* Light Greys */
 .lightestcloud {
-  background-color: #F6F7F9;
+  background-color: #d7d6d9;
 }
 
 .lightcloud {
-  background-color: #f2f3f3;
+  background-color: #cac9cc;
 }
 
 .cloudygrey {
-  background-color: #E5E6E7;
+  background-color: #bdbcc0;
 }
 
 .darkcloud {
-  background-color: #cacdcf;
+  background-color: #a3a2a7;
 }
 
 .darkestcloud {
-  background-color: #b0b3b6;
+  background-color: #89878f;
 }
 
 /* Dark Grey */
 .lightsmoke {
-  background-color: #959595;
+  background-color: #8b8c8e;
 }
 
 .smoke {
-  background-color: #7c7c7c;
+  background-color: #717275;
 }
 
 .charcoal {
-  background-color: #626262;
+  background-color: #58595b;
 }
 
 .burntcharcoal {
-  background-color: #494949;
+  background-color: #3f4041;
 }
 
 .darkcharcoal {
-  background-color: #2f2f2f;
+  background-color: #262627;
 }
 
 /* WELL Blue */
-.ltst-orange {
+.lightestwellblue {
   background-color: #81becf;
 }
 
-.lt-orange {
+.lightwellblue {
   background-color: #5dabc1;
 }
 
-.orangesicle {
+.wellblue {
   background-color: #4193A9;
 }
 
-.darkorange {
+.darkwellblue {
   background-color: #337384;
 }
 
-.darkestorange {
+.darkestwellblue {
   background-color: #25535f;
+}
+
+/* WELL v1 Features */
+.v1air {
+  background-color: #3399cc;
+}
+
+.v1water {
+  background-color: #6C879E;
+}
+
+.v1nourishment {
+  background-color: #A6BF95;
+}
+
+.v1light {
+  background-color: #ECBA58;
+}
+
+.v1fitness {
+  background-color: #D4C0AD;
+}
+
+.v1comfort {
+  background-color: #EBCDC6;
+}
+
+.v1mind {
+  background-color: #88C5D0;
+}
+
+/* WELL Features */
+.air {
+  background-color: #144249;
+}
+
+.water {
+  background-color: #07667f;
+}
+
+.nourishment {
+  background-color: #0b7b97;
+}
+
+.light {
+  background-color: #3b9db6;
+}
+
+.movement {
+  background-color: #91cbd3;
+}
+
+.thermal {
+  background-color: #a7d6ad;
+}
+
+.sound {
+  background-color: #63a984;
+}
+
+.materials {
+  background-color: #40927d;
+}
+
+.mind {
+  background-color: #2f6b5e;
+}
+
+.community {
+  background-color: #23483d;
 }
 
 /* Placeholder text color
@@ -10223,7 +10437,7 @@ nav {
 }
 
 .nav-link.disabled {
-  color: #b0b3b6;
+  color: #89878f;
 }
 
 /*nav menu button*/
@@ -10253,7 +10467,7 @@ nav {
 }
 
 .nav-link a {
-  color: #626262;
+  color: #58595b;
 }
 
 .nav-link:hover a {
@@ -10262,11 +10476,11 @@ nav {
 
 /* Navs */
 .nav-tabs .nav-link {
-  color: #626262;
+  color: #58595b;
 }
 
 .nav-tabs .nav-link:hover {
-  color: #222222;
+  color: #191a1a;
 }
 
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
@@ -10315,11 +10529,11 @@ nav {
 }
 
 .page-item.disabled .page-link {
-  color: #b0b3b6;
+  color: #89878f;
   pointer-events: none;
   cursor: not-allowed;
   background-color: #ffffff;
-  border-color: #E5E6E7;
+  border-color: #bdbcc0;
 }
 
 .page-link {
@@ -10330,14 +10544,14 @@ nav {
   line-height: 1.25;
   color: #4193A9;
   background-color: #ffffff;
-  border: 1px solid #E5E6E7;
+  border: 1px solid #bdbcc0;
 }
 
 .page-link:focus, .page-link:hover {
   color: #ffffff;
   text-decoration: none;
   background-color: #4193A9;
-  border-color: #E5E6E7;
+  border-color: #bdbcc0;
 }
 
 .pagination-lg .page-link {
@@ -10483,13 +10697,13 @@ input:focus, textarea:focus {
 }
 
 .alert-secondary {
-  background-color: #f2f3f3;
-  border-color: #cacdcf;
-  color: #494949;
+  background-color: #cac9cc;
+  border-color: #a3a2a7;
+  color: #3f4041;
 }
 
 .alert-secondary .alert-link {
-  color: #2f2f2f;
+  color: #262627;
 }
 
 .alert-success {
@@ -10533,9 +10747,9 @@ input:focus, textarea:focus {
 }
 
 .alert-dark {
-  background-color: #bbbbbb;
-  border-color: #888888;
-  color: #090909;
+  background-color: #b1b2b4;
+  border-color: #7e7f82;
+  color: black;
 }
 
 .alert-dark .alert-link {
@@ -10588,11 +10802,11 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-default {
-  background-color: #7c7c7c;
+  background-color: #717275;
 }
 
 .badge-default[href]:focus, .badge-default[href]:hover {
-  background-color: #626262;
+  background-color: #58595b;
 }
 
 .badge-primary {
@@ -10604,11 +10818,11 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-secondary {
-  background-color: #d8d9db;
+  background-color: #b0afb4;
 }
 
 .badge-secondary[href]:focus, .badge-secondary[href]:hover {
-  background-color: #cacdcf;
+  background-color: #a3a2a7;
 }
 
 .badge-success {
@@ -10644,85 +10858,155 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-light {
-  background-color: #f2f3f3;
-  color: #626262;
+  background-color: #cac9cc;
+  color: #58595b;
 }
 
 .badge-light[href]:focus, .badge-light[href]:hover {
-  background-color: #f2f3f3;
-  color: #626262;
+  background-color: #cac9cc;
+  color: #58595b;
 }
 
 .badge-dark {
-  background-color: #555555;
+  background-color: #4b4c4e;
 }
 
 .badge-dark[href]:focus, .badge-dark[href]:hover {
-  background-color: #494949;
+  background-color: #3f4041;
 }
 
 /*red*/
 /* Light Greys */
 .lightestcloud {
-  background-color: #F6F7F9;
+  background-color: #d7d6d9;
 }
 
 .lightcloud {
-  background-color: #f2f3f3;
+  background-color: #cac9cc;
 }
 
 .cloudygrey {
-  background-color: #E5E6E7;
+  background-color: #bdbcc0;
 }
 
 .darkcloud {
-  background-color: #cacdcf;
+  background-color: #a3a2a7;
 }
 
 .darkestcloud {
-  background-color: #b0b3b6;
+  background-color: #89878f;
 }
 
 /* Dark Grey */
 .lightsmoke {
-  background-color: #959595;
+  background-color: #8b8c8e;
 }
 
 .smoke {
-  background-color: #7c7c7c;
+  background-color: #717275;
 }
 
 .charcoal {
-  background-color: #626262;
+  background-color: #58595b;
 }
 
 .burntcharcoal {
-  background-color: #494949;
+  background-color: #3f4041;
 }
 
 .darkcharcoal {
-  background-color: #2f2f2f;
+  background-color: #262627;
 }
 
 /* WELL Blue */
-.ltst-orange {
+.lightestwellblue {
   background-color: #81becf;
 }
 
-.lt-orange {
+.lightwellblue {
   background-color: #5dabc1;
 }
 
-.orangesicle {
+.wellblue {
   background-color: #4193A9;
 }
 
-.darkorange {
+.darkwellblue {
   background-color: #337384;
 }
 
-.darkestorange {
+.darkestwellblue {
   background-color: #25535f;
+}
+
+/* WELL v1 Features */
+.v1air {
+  background-color: #3399cc;
+}
+
+.v1water {
+  background-color: #6C879E;
+}
+
+.v1nourishment {
+  background-color: #A6BF95;
+}
+
+.v1light {
+  background-color: #ECBA58;
+}
+
+.v1fitness {
+  background-color: #D4C0AD;
+}
+
+.v1comfort {
+  background-color: #EBCDC6;
+}
+
+.v1mind {
+  background-color: #88C5D0;
+}
+
+/* WELL Features */
+.air {
+  background-color: #144249;
+}
+
+.water {
+  background-color: #07667f;
+}
+
+.nourishment {
+  background-color: #0b7b97;
+}
+
+.light {
+  background-color: #3b9db6;
+}
+
+.movement {
+  background-color: #91cbd3;
+}
+
+.thermal {
+  background-color: #a7d6ad;
+}
+
+.sound {
+  background-color: #63a984;
+}
+
+.materials {
+  background-color: #40927d;
+}
+
+.mind {
+  background-color: #2f6b5e;
+}
+
+.community {
+  background-color: #23483d;
 }
 
 /* Placeholder text color
@@ -10812,38 +11096,38 @@ $input-color-placeholder: #999 !default;*/
 
 .btn-secondary {
   color: #000000;
-  background-color: #E5E6E7;
-  border-color: #E5E6E7;
+  background-color: #bdbcc0;
+  border-color: #bdbcc0;
 }
 
 .btn-secondary:hover {
   color: #000000;
-  background-color: #d0d2d3;
-  border-color: #d0d2d3;
+  background-color: #a8a7ac;
+  border-color: #a8a7ac;
 }
 
 .btn-light {
   color: #000000;
-  background-color: #f2f3f3;
-  border-color: #f2f3f3;
+  background-color: #cac9cc;
+  border-color: #cac9cc;
 }
 
 .btn-light:hover {
   color: #000000;
-  background-color: #E5E6E7;
-  border-color: #E5E6E7;
+  background-color: #bdbcc0;
+  border-color: #bdbcc0;
 }
 
 .btn-dark {
   color: #ffffff;
-  background-color: #4e4e4e;
-  border-color: #4e4e4e;
+  background-color: #444546;
+  border-color: #444546;
 }
 
 .btn-dark:hover {
   color: #ffffff;
-  background-color: #2f2f2f;
-  border-color: #2f2f2f;
+  background-color: #262627;
+  border-color: #262627;
 }
 
 .btn-outline-primary {
@@ -10869,13 +11153,13 @@ $input-color-placeholder: #999 !default;*/
 
 .btn-outline-secondary {
   background-color: transparent;
-  border-color: darken #E5E6E7, 20;
+  border-color: darken #bdbcc0, 20;
   color: black;
 }
 
 .btn-outline-secondary:hover {
-  background-color: #E5E6E7;
-  border-color: #E5E6E7;
+  background-color: #bdbcc0;
+  border-color: #bdbcc0;
   color: #000000;
 }
 
@@ -10930,25 +11214,25 @@ $input-color-placeholder: #999 !default;*/
 .btn-outline-light {
   color: #000000;
   background-color: transparent;
-  border-color: #E5E6E7;
+  border-color: #bdbcc0;
 }
 
 .btn-outline-light:hover {
   color: #000000;
-  background-color: #d0d2d3;
-  border-color: #d0d2d3;
+  background-color: #a8a7ac;
+  border-color: #a8a7ac;
 }
 
 .btn-outline-dark {
-  color: #626262;
+  color: #58595b;
   background-color: transparent;
-  border-color: #626262;
+  border-color: #58595b;
 }
 
 .btn-outline-dark:hover {
   color: #ffffff;
-  background-color: #626262;
-  border-color: #626262;
+  background-color: #58595b;
+  border-color: #58595b;
 }
 
 .card-primary {
@@ -10956,7 +11240,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-secondary {
-  background-color: #E5E6E7;
+  background-color: #bdbcc0;
 }
 
 .card-success {
@@ -10984,7 +11268,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-outline-secondary {
-  border-color: #E5E6E7;
+  border-color: #bdbcc0;
 }
 
 .card-outline-success {
@@ -11030,7 +11314,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-title {
-  color: #555555;
+  color: #4b4c4e;
 }
 
 .card-title:hover {
@@ -11148,7 +11432,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .dropdown-menu {
-  color: #b0b3b6;
+  color: #89878f;
   background-color: #ffffff;
   border: 0px solid rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: 0 2px 4px 0 rgba(207, 207, 207, 0.5);
@@ -11192,8 +11476,8 @@ $input-color-placeholder: #999 !default;*/
 .btn-outline-secondary:active, .btn-outline-secondary.active,
 .show > .btn-outline-secondary.dropdown-toggle {
   color: #ffffff;
-  background-color: #d8d9db;
-  border-color: #d8d9db;
+  background-color: #b0afb4;
+  border-color: #b0afb4;
 }
 
 .btn-outline-info:active, .btn-outline-info.active,
@@ -11226,11 +11510,11 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .icon-gray-light {
-  fill: #E5E6E7;
+  fill: #bdbcc0;
 }
 
 .icon-gray-dark {
-  fill: #626262;
+  fill: #58595b;
 }
 
 .icon-primary {
@@ -11262,6 +11546,142 @@ $input-color-placeholder: #999 !default;*/
   height: 15px;
 }
 
+/*red*/
+/* Light Greys */
+.lightestcloud {
+  background-color: #d7d6d9;
+}
+
+.lightcloud {
+  background-color: #cac9cc;
+}
+
+.cloudygrey {
+  background-color: #bdbcc0;
+}
+
+.darkcloud {
+  background-color: #a3a2a7;
+}
+
+.darkestcloud {
+  background-color: #89878f;
+}
+
+/* Dark Grey */
+.lightsmoke {
+  background-color: #8b8c8e;
+}
+
+.smoke {
+  background-color: #717275;
+}
+
+.charcoal {
+  background-color: #58595b;
+}
+
+.burntcharcoal {
+  background-color: #3f4041;
+}
+
+.darkcharcoal {
+  background-color: #262627;
+}
+
+/* WELL Blue */
+.lightestwellblue {
+  background-color: #81becf;
+}
+
+.lightwellblue {
+  background-color: #5dabc1;
+}
+
+.wellblue {
+  background-color: #4193A9;
+}
+
+.darkwellblue {
+  background-color: #337384;
+}
+
+.darkestwellblue {
+  background-color: #25535f;
+}
+
+/* WELL v1 Features */
+.v1air {
+  background-color: #3399cc;
+}
+
+.v1water {
+  background-color: #6C879E;
+}
+
+.v1nourishment {
+  background-color: #A6BF95;
+}
+
+.v1light {
+  background-color: #ECBA58;
+}
+
+.v1fitness {
+  background-color: #D4C0AD;
+}
+
+.v1comfort {
+  background-color: #EBCDC6;
+}
+
+.v1mind {
+  background-color: #88C5D0;
+}
+
+/* WELL Features */
+.air {
+  background-color: #144249;
+}
+
+.water {
+  background-color: #07667f;
+}
+
+.nourishment {
+  background-color: #0b7b97;
+}
+
+.light {
+  background-color: #3b9db6;
+}
+
+.movement {
+  background-color: #91cbd3;
+}
+
+.thermal {
+  background-color: #a7d6ad;
+}
+
+.sound {
+  background-color: #63a984;
+}
+
+.materials {
+  background-color: #40927d;
+}
+
+.mind {
+  background-color: #2f6b5e;
+}
+
+.community {
+  background-color: #23483d;
+}
+
+/* Placeholder text color
+$input-color-placeholder: #999 !default;*/
 .modal-open {
   overflow: hidden;
 }
@@ -11348,7 +11768,7 @@ $input-color-placeholder: #999 !default;*/
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 15px;
-  border-bottom: 1px solid #f0f0f1;
+  border-bottom: 1px solid #bdbcc0;
 }
 
 .modal-title {
@@ -11375,7 +11795,7 @@ $input-color-placeholder: #999 !default;*/
   -ms-flex-pack: end;
   justify-content: flex-end;
   padding: 15px;
-  border-top: 1px solid #f0f0f1;
+  border-top: 1px solid #bdbcc0;
 }
 
 .modal-footer > :not(:first-child) {
@@ -11450,8 +11870,8 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .list-group-item-secondary {
-  color: #494949;
-  background-color: #f2f3f3;
+  color: #3f4041;
+  background-color: #cac9cc;
 }
 
 .list-group-item-success {
@@ -11480,8 +11900,8 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .list-group-item-dark {
-  color: #090909;
-  background-color: #bbbbbb;
+  color: black;
+  background-color: #b1b2b4;
 }
 
 /* A-Spot */
@@ -11553,7 +11973,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .ColorPaletteShade.hasDarkText {
-  color: #161616;
+  color: #0d0d0d;
 }
 
 .ColorPaletteLabel, .ColorPaletteValue {

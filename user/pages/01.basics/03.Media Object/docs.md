@@ -10,8 +10,15 @@ The media object helps build complex and repetitive components where some media 
 
 Below is an example of a single media object. Only two classes are required—the wrapping .media and the .media-body around your content. Optional padding and margin can be controlled through spacing utilities.
 
+
+<style>
+#body img, #body .video-container {
+    margin: 0rem auto;
+    }
+</style>
+
 <div class="media">
-  <img class="d-flex mr-3" src="..." alt="Generic placeholder image">
+  <img class="d-flex mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Media heading</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -30,14 +37,14 @@ Nesting
 Media objects can be infinitely nested, though we suggest you stop at some point. Place nested .media within the .media-body of a parent media object.
 
 <div class="media">
-  <img class="d-flex mr-3" src="..." alt="Generic placeholder image">
+  <img class="d-flex mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Media heading</h5>
     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 
     <div class="media mt-3">
       <a class="d-flex pr-3" href="#">
-        <img src="..." alt="Generic placeholder image">
+        <img src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
       </a>
       <div class="media-body">
         <h5 class="mt-0">Media heading</h5>
@@ -70,7 +77,7 @@ Alignment
 Media in a media object can be aligned with flexbox utilities to the top (default), middle, or end of your .media-body content.
 
 <div class="media">
-  <img class="d-flex align-self-start mr-3" src="..." alt="Generic placeholder image">
+  <img class="d-flex align-self-start mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Top-aligned media</h5>
     <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
@@ -89,7 +96,7 @@ Media in a media object can be aligned with flexbox utilities to the top (defaul
 
 
 <div class="media">
-  <img class="d-flex align-self-center mr-3" src="..." alt="Generic placeholder image">
+  <img class="d-flex align-self-center mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Center-aligned media</h5>
     <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
@@ -107,7 +114,7 @@ Media in a media object can be aligned with flexbox utilities to the top (defaul
 <span class="nt">&lt;/div&gt;</span></code></pre></div>
 
 <div class="media">
-  <img class="d-flex align-self-end mr-3" src="..." alt="Generic placeholder image">
+  <img class="d-flex align-self-end mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Bottom-aligned media</h5>
     <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
@@ -131,21 +138,21 @@ Because the media object has so few structural requirements, you can also use th
 
 <ul class="list-unstyled">
   <li class="media">
-    <img class="d-flex mr-3" src="..." alt="Generic placeholder image">
+    <img class="d-flex mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
     <div class="media-body">
       <h5 class="mt-0 mb-1">List-based media object</h5>
       Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
     </div>
   </li>
   <li class="media my-4">
-    <img class="d-flex mr-3" src="..." alt="Generic placeholder image">
+    <img class="d-flex mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
     <div class="media-body">
       <h5 class="mt-0 mb-1">List-based media object</h5>
       Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
     </div>
   </li>
   <li class="media">
-    <img class="d-flex mr-3" src="..." alt="Generic placeholder image">
+    <img class="d-flex mr-3" src="http://via.placeholder.com/64x64" alt="Generic placeholder image">
     <div class="media-body">
       <h5 class="mt-0 mb-1">List-based media object</h5>
       Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.

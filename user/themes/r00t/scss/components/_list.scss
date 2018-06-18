@@ -41,8 +41,8 @@
 }  
 
 .list-group-item-secondary {
-    color: darken($dark-grey,10);
-    background-color: lighten($light-grey,5);
+    color: darken($cool-gray-11,10);
+    background-color: lighten($cool-gray-4,5);
 }  
 
 .list-group-item-success {
@@ -71,8 +71,8 @@
 }
 
 .list-group-item-dark {
-    color: darken($dark-grey,35);
-    background-color: lighten($dark-grey,35);
+    color: darken($cool-gray-11,35);
+    background-color: lighten($cool-gray-11,35);
 }
 
 
