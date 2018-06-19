@@ -7,4 +7,4 @@ process:
 	twig: true
 ---
 
-Your page content goes here.
+Coming soon!

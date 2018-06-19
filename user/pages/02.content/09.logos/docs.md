@@ -16,47 +16,112 @@ process:
 
 
 
-	<div class="col-12 highlight">
+	<div class="col-12">
 		<div class="row">
 
-	<div style="display: inline-block;" class="col-4 mb-1 mt-4">
-		<img src="/images/svg/iwbi/logo-black.svg" alt="logo" class="img-fluid">
-		<h5 align="center" class="p-3">Logo Black</h5> 
+	<div class="col-12 mb-1 mt-4">
 
-		<div class="dropdown mt-4 text-center">
-			<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-			Download
-			</button>
-			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-			<a class="dropdown-item" href="#">JPG</a>
-			<a class="dropdown-item" href="#">PNG</a>
-			<a class="dropdown-item" href="#">EPS</a>
-			</div>
-		</div>     
+		<div class="row">
+		<div class="col-12 col-sm-5">
+
+			<svg class="p-2">
+			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-black"></use>
+			</svg>
+
+			<h5 align="center" class="p-3">Logo Black</h5> 
+
+				<div class="dropdown mt-4 text-center">
+				<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Download
+				</button>
+				<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+				<a class="dropdown-item" href="#">JPG</a>
+				<a class="dropdown-item" href="#">PNG</a>
+				<a class="dropdown-item" href="#">EPS</a>
+				</div>
+			</div> 
+
+		</div>
+
+		<div class="col-12 col-sm-7">
+
+
+		<div class="highlight">
+	<pre><code class="language-html" data-lang="html">
+
+	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"iwbi--logo-black"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-black#lingo--Arrow_Down"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
+
+	</code></pre>
+		</div>  
+
+
+		</div>  
 	</div>
 
-	<div style="display: inline-block;" class="col-4 mb-1 mt-4">
-		<img src="/images/svg/iwbi/logo-gray.svg" alt="logo" class="img-fluid">
-		<h5 align="center" class="p-3">Logo Gray</h5>  
+	<div class="col-12 mb-1 mt-4">
 		
-		<div class="dropdown mt-4 text-center">
-			<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-			Download
-			</button>
-			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-			<a class="dropdown-item" href="#">JPG</a>
-			<a class="dropdown-item" href="#">PNG</a>
-			<a class="dropdown-item" href="#">EPS</a>
+		<div class="row" style="margin-top: 100px">
+			<div class="col-12 col-sm-5">
+
+		<svg class="p-2">
+		<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-gray"></use>
+		</svg>
+
+			<h5 align="center" class="p-3">Logo Gray</h5> 
+
+			<div class="dropdown mt-4 text-center">
+				<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Download
+				</button>
+				<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+				<a class="dropdown-item" href="#">JPG</a>
+				<a class="dropdown-item" href="#">PNG</a>
+				<a class="dropdown-item" href="#">EPS</a>
+				</div>
 			</div>
-		</div>       
+		</div>
+
+		
+
+			<div class="col-12 col-sm-7">
+			
+			<div class="dropdown mt-4 text-center">
+
+				<div class="highlight">
+	<pre><code class="language-html" data-lang="html">
+
+	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"iwbi--logo-black"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-black#lingo--Arrow_Down"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
+
+	</code></pre>
+				</div>  
+			  
+			</div>     
+		</div>
+
 	</div>
 
-	<div style="display: inline-block;" class="col-4 mb-1 mt-4">
+	</div>
+
+
+	<div class="col-12 mb-1 mt-4">
+
+		<div class="row" style="margin-top: 100px">
+			<div class="col-12 col-sm-5">
+
 		<div class="wellblue p-2">
-		<img src="/images/svg/iwbi/logo-white.svg" alt="logo" class="img-fluid">
-	</div>
+
+		<svg>
+		<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-white"></use>
+		</svg>
+		</div>
+
+
 		<h5 align="center" class="p-3">Logo White</h5> 
-		
+
 		<div class="dropdown mt-4 text-center">
 			<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			Download
@@ -68,13 +133,31 @@ process:
 			</div>
 		</div>
 
+		</div>
+
+		<div class="col-12 col-sm-7">
+
+			<div class="highlight">
+	<pre><code class="language-html" data-lang="html">
+
+	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"iwbi--logo-black"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-black#lingo--Arrow_Down"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
+
+	</code></pre>
+				</div> 
+		
+		
+
+	</div>
+
 	</div>
 </div>
 </div>
 
 <div class="col-12">
 
-<div class="row mt-4">
+<div class="row" style="margin-top: 100px">
 
 
 <h4>Third-party application of IWBI logo</h4>
@@ -111,6 +194,8 @@ in order to ensure that the IWBI logo is clearly distinguishable in all applicat
 
 </div>
 
+</div>
+</div>
 </div>
 </div>
 </div>
