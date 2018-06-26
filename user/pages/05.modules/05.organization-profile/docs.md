@@ -1,5 +1,5 @@
 ---
-title: Forgot Password
+title: Card Slider
 visible: true
 ---
 

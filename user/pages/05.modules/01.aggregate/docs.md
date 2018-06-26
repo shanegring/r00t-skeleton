@@ -1,230 +1,34 @@
 ---
-title: Aggregate
+title: Card Deck
 visible: true
 ---
 
-<div class="container-fluid">
-<div class='row'>
 
-<div class="col-md-10 offset-md-1 col-10 offset-1">
-<a href="">
-<div class="a-spot-image shadow">
- <img alt="" class="img-fluid w-100 shadow" src="https://images.unsplash.com/photo-1502389343615-b07268585dae?auto=format&fit=crop&w=1650&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D">
-</div>
-</a>
-
-<div class="col-12 mt-5">
-<div class="row">
-  <div class="caption p-4 w-100">
-    <h4><small>October 19, 2017</small></h4>
-    <h1><a><strong>SCENEO: First WELL Certification in France</strong></a></h1>
-    <h4>This 9-part online webcast series fo those seeking to sit for the WELL AP exam</h4>
-    <h4 class="authorline"><a href="">by Rose Winer</a></h4>
-    <a href=""><span class="badge badge-default">1.0 CE hour</span></a>
-    <a href=""><span class="badge badge-info">WELL Specific</span>
-  </div>
-  </div>
-</div>
-
-</div>
-</div>
-
-</div>
-
-
-
-
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-10 offset-md-1 col-10 offset-1" style="padding-top: 30px">      
 <div class="card-deck">
-<div class="card shadow">
-<a href="">
-<img class="card-img-top" src="https://images.unsplash.com/photo-1496550848045-55fd98791b7e?auto=format&fit=crop&w=2850&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="Card image cap">
-</a>
-<div class="card-block">
-  <h5 class="text-muted"><small>October 19, 2017</small></h5>
-  <h4 class="card-title"><a class="grey-link">Vision for healthy communities built through industry partnership</a></h4>
-  <h5 class="card-text">by Rose Winer</h5>
-  <a href=""><span class="badge badge-default">Certification</span>
-  <a href=""><span class="badge badge-default">Featured</span>
-</div>
-</div>
-<div class="card shadow">
-<a href="">
-<img class="card-img-top" src="https://images.unsplash.com/photo-1476789668825-c16c51c46ac3?auto=format&fit=crop&w=1650&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="Card image cap">
-</a>
-<div class="card-block">
-  <h5 class="text-muted"><small>October 10, 2017</small></h5>
-  <h4 class="card-title"><a class="grey-link">Top 5 Takeaways from the Acoustics #WELLography</a></h4>
-  <h5 class="card-text">by Kristen Coco</h5>
-  <a href=""><span class="badge badge-info">WELL Tips</span></a>
-  <a href=""><span class="badge badge-default">Featured</span></a>
-</div>
-</div>
-<div class="card shadow">
-<a href="">
-<img class="card-img-top" src="https://images.unsplash.com/photo-1501654574024-16afb6ee3f9b?auto=format&fit=crop&w=1655&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="Card image cap">
-</a>
-<div class="card-block">
-  <h5 class="text-muted"><small>October 14, 2017</small></h5>
-  <h4 class="card-title"><a class="grey-link">Noise isn’t just annoying - it’s bad for your health</a></h4>
-  <h5 class="card-text">by Ethan Bourdeaue</h5>
-  <a href=""><span class="badge badge-info">WELL Tips</span></a>
-  <a href=""><span class="badge badge-default">Featured</span></a>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
-
-
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-10 offset-md-1 col-10 offset-1" style="padding-top: 30px">          
-<div class="card-deck">
-<div class="card shadow">
-<a href="">
-  <img class="card-img-top" src="https://images.unsplash.com/photo-1503342669531-2557c49cde04?auto=format&fit=crop&w=1650&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="Card image cap">
-</a>
-  <div class="card-block">
-    <h5 class="text-muted"><small>User Profile</small></h5>
-    <h4 class="card-title"><a class="grey-link">Rick Fedrizzi</a></h4>
-    <h6 class="card-text">CEO and Chairman</h6>
-    <h6 class="card-text">International WELL Building Institute</h6>
-    <span class="badge badge-default">Staff</span>
-    <span class="badge badge-default">Leadership</span>
+  <div class="card" style="max-width: 18rem">
+    <img class="card-img-top" src="../../../images/Asset/Event/Image-1.png" alt="Card image cap" style="width:100%">
+    <div class="card-body">
+      <p class="card-text"><small class="text-muted">Date or Category</small></p>
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <span class="badge badge-secondary">Tag #1</span>
+      <span class="badge badge-secondary">Tag #2</span>
+    </div>
   </div>
-</a>
-</div>
-<div class="card shadow">
-<a href="">
-  <img class="card-img-top" src="https://images.unsplash.com/photo-1491380541771-037ccb0f9afd?auto=format&fit=crop&w=1567&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="Card image cap">
-</a>
-  <div class="card-block">
-    <h5 class="text-muted"><small>User Profile</small></h5>
-    <h4 class="card-title"><a class="grey-link">Jessica Cooper</a></h4>
-    <h6 class="card-text">Chief Commercial Officer</h6>
-    <h6 class="card-text">International WELL Building Institute</h6>
-    <span class="badge badge-default">Staff</span>
-    <span class="badge badge-default">Leadership</span>
+  <div class="card" style="max-width: 18rem">
+    <img class="card-img-top" src="../../../images/Asset/Event/Image-1.png" alt="Card image cap" style="width:100%">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
   </div>
-
-</div>
-<div class="card shadow">
-<a href="">
-  <img class="card-img-top" src="https://images.unsplash.com/photo-1467444606224-8254b013a046?auto=format&fit=crop&w=1649&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="Card image cap">
-</a>
-  <div class="card-block">
-    <h5 class="text-muted"><small>User Profile</small></h5>
-    <h4 class="card-title"><a class="grey-link">Rachel Gutter</a></h4>
-    <h6 class="card-text">Chief Product Officer</h6>
-    <h6 class="card-text">International WELL Building Institute</h6>
-    <span class="badge badge-default">Staff</span>
-    <span class="badge badge-default">Leadership</span>
+  <div class="card" style="max-width: 18rem">
+    <img class="card-img-top" src="../../../images/Asset/Event/Image-1.png" alt="Card image cap" style="width:100%">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
   </div>
-
-</div>
-</div>
-
-</div>
-</div>
-
-
-
-<div class="container-fluid">
-<div class="row">
-
-<div class="col-md-6 offset-md-1 col-10 offset-1 mt-4">
-
-<div class="row">
-<h5 class="card-header w-100">
-  <b>Recent Stories</b>
-</h5>
-</div>
-
-<div class="row bg-white shadow">           
-<div class="col-md-4 offset-md-0 col-12">
-  <a href="">
-  <div class="img-frame">
-  <img class="img-fluid w-100" src="https://www.wellcertified.com/sites/default/files/styles/course__428x285_/public/field/image/futureofwell-www.png?itok=vdTTcU2_"> 
-   </a>
-  </div>  
-
-</div>
-
-<div class="col-md-8 offset-md-0 align-self-center p-3">
-      <h5 class="text-muted">November 3rd, 2017</h5>
-      <h4><strong>An early look at WELL v2</strong></h4>
-      <h6>by Soyoung Hwang</h6>
-</div>
-
-</div>
-
-<div class="row bg-white shadow mt-4">           
-<div class="col-md-4 offset-md-0 col-12">
-  <a href="">
-  <div class="img-frame">
-  <img class="img-fluid w-100" src="https://www.wellcertified.com/sites/default/files/field/image/Article%20Header.png"> 
-</a>
-  </div>  
-</div>
-
-<div class="col-md-8 offset-md-0 align-self-center p-3">
-      <h5 class="text-muted">November 1st, 2017</h5>
-      <h4><strong>Your Guide to the WELL Q3 Addendum</strong></h4>
-      <h6>by Rachel Gutter</h6>
-</div>
-</div>
-
-<div class="row bg-white shadow mt-4">           
-<div class="col-md-4 offset-md-0 col-12">
-  <div class="img-frame">
-    <a href="">
-  <img class="img-fluid w-100" src="https://www.wellcertified.com/sites/default/files/styles/course__428x285_/public/field/image/shanghai_0.jpg?itok=Tl8YghS9"> 
-  </a>  
-</div>
-</div>
-
-<div class="col-md-8 offset-md-0 align-self-center p-3">
-      <h5 class="text-muted">October 20, 2017</h5>
-      <h4><strong>Advancing Global Substainability in China</strong></h4>
-      <h6>by Rick Fedriizi</h6>
-</div>
-</div>
-
-</div>
-
-
-
-
-<div class="col-md-4 offset-md-0 col-10 offset-1 mt-4 d-none d-sm-block">
-
-
-<h5 class="card-header w-100">
-  <b>Trending Topics</b>
-</h5>
-
-<div class="bg-white shadow w-100"> 
-<ul class="list-group">
-  <li class="list-group-item">
-    <a href="#" class="blue-link">WELL Addenda Q3 2017</a>
-  </li>
-
-  <li class="list-group-item">
-    <badge class="badge badge-success mr-2">NEW</badge>
-      <a href="#" class="blue-link">WELL Brochure</a>
-  </li>
-  
-  <li class="list-group-item"><a href="#" class="blue-link">LBC Crosswalk</a></li>
-  <li class="list-group-item"><a href="#" class="blue-link">Frequently Asked Questions</a></li>
-  <li class="list-group-item"><a href="#" class="blue-link">Frequently Asked Questions</a></li>
-</ul>          
-
-</div>
-</div>
-
-</div>
 </div>
