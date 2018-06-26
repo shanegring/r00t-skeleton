@@ -12,10 +12,10 @@ process:
 <div class="row">
 
 <div class="col-3 text-center">
-<h4 class="mt-4">cc1</h4>
-<svg class="icon icon-xl">
-<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc1"></use>
-</svg>
+<h4 class="mt-4">cc241</h4>
+
+<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc241.svg" />
+
 </div>
 
 
@@ -23,9 +23,9 @@ process:
 <div class="highlight mt-4">
 <pre><code class="language-html" data-lang="html">
 
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#projdev--cc1a"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
+	
+	<span class="nt">&lt;img </span><span class="na">class=</span><span class="s">"icon icon-lg"</span> <span class="na">src=</span><span class="s">"http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc241.svg"</span><span class="nt">&gt;</span><span class="nt">&lt;/img</span><span class="nt">&gt;</span>
+
 
 </code></pre>
 </div>
@@ -39,10 +39,8 @@ process:
 <div class="row">
 
 <div class="col-3 text-center">
-<h4 class="mt-4">cc2</h4>
-<svg class="icon icon-xl">
-<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc2"></use>
-</svg>
+<h4 class="mt-4">cc242</h4>
+<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc242.svg" />
 </div>
 
 
@@ -65,10 +63,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc3</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc3"></use>
-		</svg>
+		<h4 class="mt-4">cc243</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc243.svg" />
+
 	</div>
 
 
@@ -90,10 +87,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc4</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc4"></use>
-		</svg>
+		<h4 class="mt-4">cc244</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc244.svg" />
+
 	</div>
 
 
@@ -115,10 +111,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc5</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc5"></use>
-		</svg>
+		<h4 class="mt-4">cc245</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc245.svg" />
+
 	</div>
 
 
@@ -141,10 +136,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc6</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc6"></use>
-		</svg>
+		<h4 class="mt-4">cc246</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc246.svg" />
+
 	</div>
 
 
@@ -165,10 +159,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc7</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc7"></use>
-		</svg>
+		<h4 class="mt-4">cc247</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc247.svg" />
+
 	</div>
 
 
@@ -191,10 +184,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc8</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc8"></use>
-		</svg>
+		<h4 class="mt-4">cc248</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc248.svg" />
+
 	</div>
 
 
@@ -217,10 +209,9 @@ process:
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc9</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc9"></use>
-		</svg>
+		<h4 class="mt-4">cc249</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc249.svg" />
+
 	</div>
 
 
@@ -238,14 +229,13 @@ process:
 </div>
 
 
-<!-- CC10 -->
+<!-- CC250 -->
 
 <div class="row">
 	<div class="col-3 text-center">
 		<h4 class="mt-4">cc10</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc10"></use>
-		</svg>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc250.svg" />
+
 	</div>
 
 
@@ -263,14 +253,13 @@ process:
 </div>
 
 
-<!-- CC11 -->
+<!-- CC251 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc11</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc11"></use>
-		</svg>
+		<h4 class="mt-4">cc251</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc251.svg" />
+
 	</div>
 
 
@@ -288,14 +277,13 @@ process:
 </div>
 
 
-<!-- CC12 -->
+<!-- CC252 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc12</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc12"></use>
-		</svg>
+		<h4 class="mt-4">cc252</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc252.svg" />
+
 	</div>
 
 
@@ -314,14 +302,13 @@ process:
 
 
 
-<!-- CC13 -->
+<!-- CC253 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc13</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc13"></use>
-		</svg>
+		<h4 class="mt-4">cc253</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc253.svg" />
+
 	</div>
 
 
@@ -339,14 +326,12 @@ process:
 </div>
 
 
-<!-- CC14 -->
+<!-- CC254 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc14</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc14"></use>
-		</svg>
+		<h4 class="mt-4">cc254</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc254.svg" />
 	</div>
 
 
@@ -365,14 +350,12 @@ process:
 
 
 
-<!-- CC15 -->
+<!-- CC255 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc15</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc15"></use>
-		</svg>
+		<h4 class="mt-4">cc255</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc255.svg" />
 	</div>
 
 
@@ -390,14 +373,12 @@ process:
 </div>
 
 
-<!-- CC16 -->
+<!-- CC256 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc16</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc16"></use>
-		</svg>
+		<h4 class="mt-4">cc256</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc256.svg" />
 	</div>
 
 
@@ -415,14 +396,12 @@ process:
 </div>
 
 
-<!-- CC17 -->
+<!-- CC257 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc17</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc17"></use>
-		</svg>
+		<h4 class="mt-4">cc257</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc257.svg" />
 	</div>
 
 
@@ -441,14 +420,12 @@ process:
 
 
 
-<!-- CC18 -->
+<!-- CC258 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc18</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc18"></use>
-		</svg>
+		<h4 class="mt-4">cc258</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc258.svg" />
 	</div>
 
 
@@ -467,14 +444,12 @@ process:
 
 
 
-<!-- CC19 -->
+<!-- CC259 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc19</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc19"></use>
-		</svg>
+		<h4 class="mt-4">cc259</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc259.svg" />
 	</div>
 
 
@@ -492,14 +467,12 @@ process:
 </div>
 
 
-<!-- CC20 -->
+<!-- CC260 -->
 
 <div class="row">
 	<div class="col-3 text-center">
-		<h4 class="mt-4">cc10</h4>
-		<svg class="icon icon-xl">
-			<use xlink:href="../../user/themes/r00t/build/svg/symbol/styleguide.svg#illustration--ProjDev--cc20"></use>
-		</svg>
+		<h4 class="mt-4">cc260</h4>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc260.svg" />
 	</div>
 
 
