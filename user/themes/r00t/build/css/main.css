@@ -11317,7 +11317,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card {
-  border-radius: 0rem;
+  border: 0px solid rgba(0, 0, 0, 0.125);
 }
 
 .card-img-top {

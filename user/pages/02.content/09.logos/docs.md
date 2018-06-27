@@ -19,6 +19,52 @@ process:
 	<div class="col-12">
 		<div class="row">
 
+
+				<div class="col-12 mb-1 mt-4">
+
+		<div class="row">
+		<div class="col-12 col-sm-5">
+
+			<svg class="p-2">
+			<use xlink:href="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Icon--Workmark--Black.svg"></use>
+			</svg>
+
+			<h5 align="center" class="p-3">Workmark Black</h5> 
+
+				<div class="dropdown mt-4 text-center">
+				<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Download
+				</button>
+				<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+				<a class="dropdown-item" href="#">JPG</a>
+				<a class="dropdown-item" href="#">PNG</a>
+				<a class="dropdown-item" href="#">EPS</a>
+				</div>
+			</div> 
+
+		</div>
+
+		<div class="col-12 col-sm-7">
+
+
+		<div class="highlight">
+	<pre><code class="language-html" data-lang="html">
+
+	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"iwbi--logo-black"</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-black#lingo--Arrow_Down"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
+	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
+
+	</code></pre>
+		</div>  
+
+
+		</div>  
+	</div>
+</div>
+
+
+
+
 	<div class="col-12 mb-1 mt-4">
 
 		<div class="row">
@@ -59,6 +105,7 @@ process:
 
 		</div>  
 	</div>
+</div>
 
 	<div class="col-12 mb-1 mt-4">
 		

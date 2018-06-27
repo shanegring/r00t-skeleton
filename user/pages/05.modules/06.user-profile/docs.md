@@ -5,13 +5,7 @@ visible: true
 
 Your page content goes here.
 
-<style>
 
-.card {
-	border-width: 0;
-}
-
-</style>
 
 <div class="card-deck">
 
