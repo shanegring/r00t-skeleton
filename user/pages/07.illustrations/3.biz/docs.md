@@ -1303,11 +1303,10 @@ process:
 <div class="col-9">
 <div class="highlight p-4">
 		<textarea disabled style="width: 100%; min-height: 75px">
-		<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Biz--cc107" />
+		<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Biz--cc107.svg" />
 		</textarea>
 
 </div>
-
 </div>
 </div>
 
