@@ -7,6 +7,19 @@ process:
     twig: true
 ---
 
+
+
+
+<style>
+
+.btn-primary {
+	background-color: red;
+}
+
+
+
+</style>
+
 <h4 class="mt-4 mb-4">Filled Buttons</h4>
 <button type="button" class="btn btn-primary">Primary</button>
 <button type="button" class="btn btn-secondary">Secondary</button>
