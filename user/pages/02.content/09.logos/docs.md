@@ -16,11 +16,7 @@ process:
 
 
 
-	<div class="col-12">
-		<div class="row">
-
-
-				<div class="col-12 mb-1 mt-4">
+	
 
 		<div class="row">
 		<div class="col-12 col-sm-5">
@@ -47,7 +43,10 @@ process:
 		<div class="col-12 col-sm-7">
 
 
-		<div class="highlight">
+		
+			<textarea disabled style="width: 100%">
+				<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Icon--Workmark--Black.svg" />
+			</textarea>
 
 
 	
@@ -55,20 +54,16 @@ process:
 
 
 		</div>  
-	</div>
-</div>
 
 
 
 
-	<div class="col-12 mb-1 mt-4">
-
-		<div class="row">
+		<div class="row mt-4">
 		<div class="col-12 col-sm-5">
 
-			<svg class="p-2">
-			<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/iwbi--logo-black.svg"></use>
-			</svg>
+		
+			<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/iwbi--logo-black.svg" />
+		
 
 			<h5 align="center" class="p-3">Logo Black</h5> 
 
@@ -88,20 +83,14 @@ process:
 		<div class="col-12 col-sm-7">
 
 
-		<div class="highlight">
-	<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"iwbi--logo-black"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#iwbi--logo-black#lingo--Arrow_Down"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-	</code></pre>
-		</div>  
+		<textarea disabled style="width: 100%">
+				<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/iwbi--logo-black.svg" />
+			</textarea>
 
 
 		</div>  
 	</div>
-</div>
+
 
 	<div class="col-12 mb-1 mt-4">
 		
