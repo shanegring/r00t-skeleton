@@ -12,27 +12,13 @@ visible: true
 </style>
 
 
-<div class="card-deck">
-  <div class="card shadow mb-4">
-    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
-    <div class="card-body">
-      <p class="card-text"><small class="text-muted">Date or Category</small></p>
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <span class="badge badge-secondary">Tag #1</span>
-      <span class="badge badge-secondary">Tag #2</span>
-    </div>
-  </div>
-  <div class="card shadow mb-4">
-    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
-    <div class="card-body">
-      <p class="card-text"><small class="text-muted">Date or Category</small></p>
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <span class="badge badge-secondary">Tag #1</span>
-      <span class="badge badge-secondary">Tag #2</span>
-    </div>
-  </div>
+  <div class="row">
+
+
+ 
+
+  <div class="col-lg-4 col-sm-6 offset-sm-0 col-10 offset-1">
+    
   <div class="card shadow mb-4">
     <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
     <div class="card-body">
@@ -44,6 +30,42 @@ visible: true
     </div>
   </div>
 </div>
+
+
+
+
+<div class="col-lg-4 col-sm-6 offset-sm-0 col-10 offset-1">
+
+  <div class="card shadow mb-4">
+    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
+    <div class="card-body">
+      <p class="card-text"><small class="text-muted">Date or Category</small></p>
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <span class="badge badge-secondary">Tag #1</span>
+      <span class="badge badge-secondary">Tag #2</span>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="col-lg-4 col-sm-6 offset-sm-0 col-10 offset-1">
+  <div class="card shadow mb-4">
+    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
+    <div class="card-body">
+      <p class="card-text"><small class="text-muted">Date or Category</small></p>
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <span class="badge badge-secondary">Tag #1</span>
+      <span class="badge badge-secondary">Tag #2</span>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
 
 
 <textarea disabled style="width: 100%">
@@ -80,6 +102,7 @@ visible: true
     </div>
   </div>
 </div>
+
 
 </textarea>
 </span>
