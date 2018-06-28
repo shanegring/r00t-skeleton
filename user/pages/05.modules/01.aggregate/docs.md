@@ -14,7 +14,7 @@ visible: true
 
 <div class="card-deck">
   <div class="card shadow mb-4">
-    <img class="card-img-top" src="../../../images/Asset/Event/Image-1.png" alt="Card image cap" style="width:100%">
+    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
     <div class="card-body">
       <p class="card-text"><small class="text-muted">Date or Category</small></p>
       <h5 class="card-title">Card title</h5>
@@ -24,7 +24,7 @@ visible: true
     </div>
   </div>
   <div class="card shadow mb-4">
-    <img class="card-img-top" src="../../../images/Asset/Event/Image-1.png" alt="Card image cap" style="width:100%">
+    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
     <div class="card-body">
       <p class="card-text"><small class="text-muted">Date or Category</small></p>
       <h5 class="card-title">Card title</h5>
@@ -34,7 +34,7 @@ visible: true
     </div>
   </div>
   <div class="card shadow mb-4">
-    <img class="card-img-top" src="../../../images/Asset/Event/Image-1.png" alt="Card image cap" style="width:100%">
+    <img class="card-img-top" src="https://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resource--Placeholder--Article.svg" alt="Card image cap" style="width:100%">
     <div class="card-body">
       <p class="card-text"><small class="text-muted">Date or Category</small></p>
       <h5 class="card-title">Card title</h5>
