@@ -21,11 +21,11 @@ process:
 </div>
 
 
-<div class="col-9 mt-4">
+	<div class="col-9 mt-4">
 		<div class="highlight p-4">
 		<textarea disabled style="width: 100%; min-height: 75px">
-	<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc241.svg" />
-	</textarea>
+		<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc241.svg" />
+		</textarea>
 		</div>
 	</div>
 </div>
@@ -44,7 +44,7 @@ process:
 
 <div class="col-9 mt-4">
 		<div class="highlight p-4">
-	<textarea disabled style="width: 100%">
+	<textarea disabled style="width: 100%; min-height: 75px">
 	<img class="icon icon-xl" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Indu--cc242.svg" />
 	</textarea>
 		</div>

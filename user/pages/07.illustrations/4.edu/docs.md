@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Education (Edu)
 visible: true
 taxonomy:
     category: docs
@@ -21,16 +21,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc121"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc121.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -49,16 +44,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc122"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc122.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -76,16 +66,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc123"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc123.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -104,16 +89,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc124"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc124.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -132,16 +112,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc125"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc125.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -160,16 +135,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc126"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc126.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -188,16 +158,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc127"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc127.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -216,16 +181,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc128"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc128.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -245,16 +205,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc129"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc129.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -273,16 +228,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc130"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc130.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -301,16 +251,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc131"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc131.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -330,16 +275,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc132"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc132.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -359,16 +299,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc133"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc133.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -388,16 +323,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc134"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc134.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -416,16 +346,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc135"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc135.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -444,16 +369,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc136"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc136.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -474,16 +394,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc137"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc137.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -502,16 +417,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc138"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc138.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -529,16 +439,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc139"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc139.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 
@@ -557,16 +462,11 @@ process:
 
 
 <div class="col-9">
-<div class="highlight mt-4">
-<pre><code class="language-html" data-lang="html">
-
-	<span class="nt">&lt;svg </span><span class="na">class=</span><span class="s">"#"</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;use </span><span class="na">xlink:href=</span><span class="s">"../../user/themes/r00t/build/svg/symbol/styleguide.svg#Illustrations--Edu--cc140"</span><span class="nt">&gt;</span><span class="nt">&lt;/use</span><span class="nt">&gt;</span>
-	<span class="nt">&lt;svg</span><span class="nt">&gt;</span>
-
-</code></pre>
+<div class="highlight p-4">
+	<textarea disabled style="width: 100%; min-height: 75px">
+	<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Illustrations--Edu--cc140.svg" />
+	</textarea>
 </div>
-
 </div>
 </div>
 

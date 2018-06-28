@@ -51,6 +51,9 @@ visible: true
 <h3>Document/PDF Placeholder (2:1)</h3>       
 <img src="../../assets/placeholders/document_pdf.png" alt="documents PDF image" class="img-fluid">
 
+
+<img src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Resources--pdf.svg" />
+
 <div class="col-12">
 <div class="highlight mt-4 mb-4">
 <pre><code class="language-html" data-lang="html">
@@ -126,6 +129,10 @@ visible: true
 <div class="pb-4">
 <h3>Presentation Placeholder (2:1)</h3>
 <img src="../../assets/placeholders/presentation.png" alt="presentation image" class="img-fluid">
+
+
+<img src="../../user/themes/r00t/build/svg/raw/Resource--xlx.svg" />
+
 
 <div class="col-12">
 <div class="highlight mt-4 mb-4">

@@ -1,5 +1,5 @@
 ---
-title: Business
+title: Business (Biz>)
 visible: true
 taxonomy:
     category: docs

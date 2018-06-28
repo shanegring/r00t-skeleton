@@ -8,20 +8,6 @@ process:
 ---
 
 
-
-<svg class="icon icon-xl">
-<use xlink:href="#Illustrations--ProjDev--cc1"></use>
-</svg>
-
-
-<div class="row">
-
-<img src="../../user/themes/r00t/build/svg/raw/Illustrations--Biz--cc61.svg" alt="Handshake">
-
-</div>
-
-
-
 <div class="row">
 
 <div class="col-3 text-center">
