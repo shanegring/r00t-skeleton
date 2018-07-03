@@ -2,9 +2,9 @@
 title: Content
 ---
 
-### 02
+### 03
 
-# Content
+<center><h1> Content </center></h1> 
 
 The unique local components for WELLcertified.com
 
