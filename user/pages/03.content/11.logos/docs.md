@@ -24,7 +24,7 @@ process:
 			
 			<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Icon--Workmark--Black.svg" />
 
-			<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/iwbi--workmark.svg" />
+			<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/iwbi--wordmark.svg" />
 			
 
 			<h5 align="center" class="p-3">Workmark Black</h5> 
@@ -48,6 +48,8 @@ process:
 		
 			<textarea disabled style="width: 100%">
 				<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/Icon--Workmark--Black.svg" />
+
+				<img class="" src="http://blue.wellcertified.com/user/themes/r00t/build/svg/raw/iwbi--wordmark.svg" />
 			</textarea>
 
 
