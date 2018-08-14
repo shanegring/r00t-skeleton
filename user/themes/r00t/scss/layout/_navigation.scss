@@ -1,7 +1,7 @@
 
 @import "./abstracts/variables";
 
-/*
+
 nav {
 	background: transparent; 
 	text-align: center;
@@ -9,7 +9,7 @@ nav {
 	font-size: 1.1em;
 	letter-spacing: 2px;
 }
-*/
+
 
 .nav-link.active {
 	color: $white;
@@ -41,7 +41,7 @@ nav {
 }
 
 
-/* Navigation 
+/* Navigation */
 .nav-tabs .nav-link {
     border: 0px solid transparent;
     border-top-left-radius: 0rem;
