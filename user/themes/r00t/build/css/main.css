@@ -10440,14 +10440,15 @@ table {
 
 /* Placeholder text color
 $input-color-placeholder: #999 !default;*/
+/*
 nav {
-  background: transparent;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 1.1em;
-  letter-spacing: 2px;
+	background: transparent; 
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.1em;
+	letter-spacing: 2px;
 }
-
+*/
 .nav-link.active {
   color: #ffffff;
   background-color: #4193A9;
@@ -10475,14 +10476,14 @@ nav {
   background: #ffffff;
 }
 
-/* Navigation */
+/* Navigation 
 .nav-tabs .nav-link {
-  border: 0px solid transparent;
-  border-top-left-radius: 0rem;
-  border-top-right-radius: 0rem;
-  padding-top: 1rem;
+    border: 0px solid transparent;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0rem;
+    padding-top: 1rem;
 }
-
+*/
 .nav-link a {
   color: #58595b;
 }
