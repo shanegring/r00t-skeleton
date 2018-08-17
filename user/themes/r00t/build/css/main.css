@@ -10735,7 +10735,7 @@ $input-color-placeholder: #999 !default;*/
 .btn {
   border-radius: 4;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 0.05rem;
   padding: 0.5em 1em;
 }
