@@ -3,34 +3,57 @@ title: Vertical Tabs
 visible: true
 ---
 
+<style>
+
+#body .nav {
+  position: relative;
+  font-size: 12px;
+}
+
+
+    #body-inner a:hover {
+    text-decoration: none;
+    text-decoration-style: none;
+  }
+
+
+  .nav-pills .nav-link.active, .nav-pills .nav-item.show .nav-link {
+    color: #000;
+    cursor: default;
+    background-color: #fff;
+  }
+
+
+</style>
 
 <div class="row">
-	<div class="col-12">
+	<div class="col-12" style="background: #F8F7F7">
 
 
-<div class="row">
+<div class="row mt-4 mb-4">
 	<div class="col-3">
-<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+<div class="nav flex-column nav-pills w-100" id="v-pills-tab" role="tablist" aria-orientation="vertical" style="position: block;">
 <h6>
-  <a class="nav-link active mb-3 p-3 uppercase" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
+  <a class="nav-link active mb-2 pt-3 pb-3 pr-4 pl-4" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
 
-  <a class="nav-link mb-3 p-3 uppercase" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+  <a class="nav-link mb-2 pt-3 pb-3 pr-4 pl-4" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
 
-  <a class="nav-link mb-3 p-3 uppercase" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a>
+  <a class="nav-link mb-2 pt-3 pb-3 pr-4 pl-4" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a>
 
-  <a class="nav-link mb-3 p-3 uppercase" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a>
+  <a class="nav-link mb-2 pt-3 pb-3 pr-4 pl-4" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a>
  </h6>
 </div>
 </div>
 
 
 <div class="col-9">
-<div class="tab-content" id="v-pills-tabContent">
+<div class="tab-content p-4" id="v-pills-tabContent" style="background: #fff">
   <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
   	<p>After documentation submission, the Green Business Certification Inc. (GBCI) will assign a GBCI WELL Assessor to the project. The WELL Assessor is the third-party individual responsible for assessing/reviewing your project. After submission for certification, the WELL Assessor is responsible for verifying both documentation and performance test results for WELL projects. 
 
 	Project teams may elect to contract GBCI to conduct on-site performance testing or may contract directly with approved providers trained by GBCI to conduct performance testing. If performance testing is conducted by an approved provider, the WELL Assessor assigned to the project will review performance testing results to confirm achievement of certification.</p>
 	</div>
+
   <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">Fugiat id quis dolor culpa eiusmod anim velit excepteur proident dolor aute qui magna. Ad proident laboris ullamco esse anim Lorem Lorem veniam quis Lorem irure occaecat velit nostrud magna nulla. Velit et et proident Lorem do ea tempor officia dolor. Reprehenderit Lorem aliquip labore est magna commodo est ea veniam consectetur.</div>
   <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 
@@ -52,6 +75,8 @@ visible: true
 </div>
 </div>
 
+
+<hr />
 
 <ul class="nav nav-tabs" id="myTab" role="tablist" aria-orientation="vertical">
   <li class="nav-item">
