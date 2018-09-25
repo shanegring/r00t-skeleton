@@ -285,4 +285,8 @@ License - nucleoapp.com/license/
   content: "\ea16";
 }
 
+.ni-hotel-bell::before {
+  content: "\ea17";
+}
+
 /* all icon font classes list here */
