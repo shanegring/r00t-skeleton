@@ -6,8 +6,8 @@ License - nucleoapp.com/license/
 -------------------------------- */
 @font-face {
   font-family: 'NucleoIcons';
-  src: url('../fonts/Nucleo.eot');
-  src: url('../fonts/Nucleo.eot') format('embedded-opentype'), url('../fonts/Nucleo.woff2') format('woff2'), url('../fonts/Nucleo.woff') format('woff'), url('../fonts/Nucleo.ttf') format('truetype'), url('../fonts/Nucleo.svg') format('svg');
+  src: url('https://blue.wellcertified.com/argon/assets/vendor/nucleo/fonts/Nucleo.eot');
+  src: url('https://blue.wellcertified.com/argon/assets/vendor/nucleo/fonts/Nucleo.eot') format('embedded-opentype'), url('https://blue.wellcertified.com/argon/assets/vendor/nucleo/fonts/Nucleo.woff2') format('woff2'), url('https://blue.wellcertified.com/argon/assets/vendor/nucleo/fonts/Nucleo.woff') format('woff'), url('https://blue.wellcertified.com/argon/assets/vendor/nucleo/fonts/Nucleo.ttf') format('truetype'), url('https://blue.wellcertified.com/argon/assets/vendor/nucleo/fonts/Nucleo.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
