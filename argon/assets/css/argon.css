@@ -108,7 +108,7 @@ section
 
 body
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'museo-sans', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -7253,7 +7253,7 @@ button.close
 
 .tooltip
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'museo-sans', sans-serif;
     font-size: .875rem;
     font-weight: 400;
     font-style: normal;
@@ -7400,7 +7400,7 @@ button.close
 
 .popover
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'museo-sans', sans-serif;
     font-size: .875rem;
     font-weight: 400;
     font-style: normal;
@@ -16452,7 +16452,7 @@ textarea[resize='horizontal']
 
 .navbar-nav .nav-link
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'museo-sans', sans-serif;
     font-size: .9rem;
     font-weight: 400;
 

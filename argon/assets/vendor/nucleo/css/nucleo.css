@@ -289,4 +289,20 @@ License - nucleoapp.com/license/
   content: "\ea17";
 }
 
+.ni-scale::before {
+  content: "\ea18";
+}
+
+.ni-measure-big::before {
+  content: "\ea19";
+}
+
+.ni-remove-part::before {
+  content: "\ea1a";
+}
+
+.ni-tail-left::before {
+  content: "\ea1b";
+}
+
 /* all icon font classes list here */
