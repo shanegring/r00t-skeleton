@@ -305,4 +305,16 @@ License - nucleoapp.com/license/
   content: "\ea1b";
 }
 
+.ni-chat-46-2::before {
+    content: "\ea1f";
+}
+
+.ni-users-wm::before {
+    content: "\ea20";
+}
+
+.ni-pin-copy::before {
+    content: "\ea21";
+}
+
 /* all icon font classes list here */
